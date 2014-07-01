@@ -1,0 +1,14 @@
+Hello,ell
+This is good, is
+CodeEval,C*Eval
+Old,Young
+CEval,C*Eval
+blahC*Evalblah,C\*Eval
+AxxxBxxxC,A*B*C
+AxxxBxxxCxxx,A*B*C
+xxxAxxxBxxxCxxx,A*B*C
+xxxA*BxxxCxxx,A\*B*C
+abcabc,abc
+abc,*c
+*c,\*c
+*x*xx,*xx*

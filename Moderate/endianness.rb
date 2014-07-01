@@ -1,0 +1,1 @@
+puts [1,0,0,0].pack("i").slice(0,1) == "\x01" ? "LittleEndian" : "BigEndian"

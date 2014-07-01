@@ -1,0 +1,10 @@
+babgbag,bag
+rabbbit,rabbit
+xxxx,x
+xxxx,xx
+xxxx,y
+xxxx,xy
+abc,cba
+abracadabra,abc
+abracadabra,cba
+hellohello,hello
